@@ -1,16 +1,3 @@
-# todoey
+# ToDoey
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ToDoey is a to-do list app that helps you keep track of the task you have and allows you to delete and add new tasks on the go. The app uses the flutter framework and the provider package for state management. 
